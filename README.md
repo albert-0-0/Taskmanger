@@ -1,81 +1,73 @@
-Task Manager – Quick Start Guide
+# Task Manager – Quick Start Guide
 
-Table of Contents
+## Table of Contents
 
-1.Introduction
+1. [Introduction](#introduction)  
+2. [Installation Steps](#installation-steps)  
+3. [Main Features](#main-features)  
+4. [Basic Usage Guide](#basic-usage-guide)  
+5. [Troubleshooting](#troubleshooting)  
+6. [FAQs](#faqs)  
 
-2.Installation Steps
+---
 
-3.Main Features
+## 1. Introduction  
 
-4.Basic Usage Guide
+Welcome to the **Task Manager Web App**! This guide will help you quickly set up and start using the application for organizing your tasks efficiently.  
 
-5.Troubleshooting
+---
 
-6.FAQs
+## 2. Installation Steps  
 
-1.Introduction
+1. Open your browser and visit [www.TaskManager.com](www.TaskManager.com).  
+2. Click **Sign Up** and create an account.  
+3. Verify your email and log in.  
+4. Start managing your tasks!  
 
-Welcome to the Task Manager Web App! This guide will help you quickly set up and start
+---
 
-using the application for organizing your tasks efficiently.
+## 3. Main Features  
 
-2.Installation Steps
+- **Task Creation**: Add new tasks with deadlines.  
+- **Categories & Labels**: Organize tasks into groups.  
+- **Reminders & Notifications**: Get alerts for upcoming tasks.  
+- **Collaboration**: Share tasks with teammates.  
 
-1.Open your browser and visit [www.TaskManager.com].
+---
 
-2.Click Sign Up and create an account.
+## 4. Basic Usage Guide  
 
-3.Verify your email and log in.
+### Adding a New Task  
 
-4.Start managing your tasks!
+1. Click on the **"Add Task"** button.  
+2. Enter task details (**Title, Due Date, Priority**).  
+3. Click **"Save"** to add the task.  
 
-3.Main Features
+### Editing or Deleting a Task  
 
-•Task Creation: Add new tasks with deadlines.
+1. Click the **Edit** button to modify task details.  
+2. Click **Delete** to remove a task permanently.  
 
-•Categories & Labels: Organize tasks into groups.
+---
 
-•Reminders & Notifications: Get alerts for upcoming tasks.
+## 5. Troubleshooting  
 
-•Collaboration: Share tasks with teammates
+### Problem: Unable to Log In  
 
-4.Basic Usage Guide
+- Ensure your email and password are correct.  
+- Try resetting your password.  
 
-Adding a New Task
+### Problem: Tasks Not Saving  
 
-1.Click on the "Add Task" button.
+- Refresh the page and try again.  
+- Clear your browser cache.  
 
-2.Enter task details (Title, Due Date, Priority).
+---
 
-3.Click "Save" to add the task.
+## 6. FAQs  
 
-Editing or Deleting a Task
+**Q: Is this app free to use?**  
+A: Yes, the basic version is free.  
 
-1.Click the Edit button to modify task details.
-
-2.Click Delete to remove a task permanently.
-
-4.Troubleshooting
-
-Problem: Unable to Log In
-
-•Ensure your email and password are correct.
-
-•Try resetting your password.
-
-Problem: Tasks Not Saving
-
-•Refresh the page and try again.
-
-•Clear your browser cache.
-
-6. FAQs
-
-Q: Is this app free to use?
-
-A: Yes, the basic version is free.
-
-Q: Can I use it on mobile?
-
-A: Yes, it is mobile-friendly and works on all devices.
+**Q: Can I use it on mobile?**  
+A: Yes, it is mobile-friendly and works on all devices.  
